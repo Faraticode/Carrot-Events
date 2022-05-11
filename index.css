@@ -1,0 +1,32 @@
+body{
+  align-content: center;
+  justify-content: center;
+  background-color:#feebf1;
+}
+img{height:45%;
+  width: 50%;
+  padding: 2em;
+  margin-left: 18%;
+}
+#top-container h1{
+  text-align: center;
+  color:#465154;
+}
+#top-container p{text-align: center;
+color:#6e8084;
+  font-size: 19px;
+}
+#bottom-container p{text-align: center;
+color:#a5a9aa;}
+div h3{text-align: center;
+color:#f36579;
+  font-size: 15.4px;
+}
+h2 button{background-color:#b6c5c9;
+color: white;
+padding: 12px;
+border-radius: 222px;
+text-align: center;
+margin-left: 35%;
+margin-top: 30px;
+}
